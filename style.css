@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color:#FF9A4B;
+  height:50px;
+}
+
+.box{
+  width:300;
+  background-color:#EEE;
+  padding:10px;
+}
+.step{
+  background-color:#FF9A4B;
+}
+
+fotter{
+  background-color:#AAA;
+  height:50px;
+}
